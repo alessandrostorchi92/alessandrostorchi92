@@ -1,6 +1,6 @@
 <h1 align="left">Piacere di conoscerti 🤝🏻🤗</h1>
 
-<img src="../img/my-avatar.jpeg" height="70" alt=""/>
+<img src="img/my-avatar.jpeg" height="70" alt=""/>
 
 ###
 
