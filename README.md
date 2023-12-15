@@ -1,5 +1,7 @@
 <h1 align="left">Piacere di conoscerti 🤝🏻🤗</h1>
 
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
 ###
 
 <p align="left">🧑🏻‍💻CHI SONO:<br><br>Dopo la laurea in giurisprudenza e  l’esperienza lavorativa in Irlanda, folgorato sulla via di Damasco, come nella fiaba “Jack e la pianta di fagioli”, è germogliata in me la voglia irrefrenabile di addentrarmi nel mondo del web development. <br><br>Bruciato dalla febbre della curiosità mi ci sono buttato a capofitto. Così ho preso la decisione di frequentare il corso Full Stack Development di Boolean. Grazie al suo metodo learning by doing, Boolean mi ha permesso di acquisire il giusto mindset e solide basi per trovare la soluzione ai problemi nel corso della progettazione di un sito web o di una web app.<br><br> Il mio obiettivo è quello di lavorare su progetti innovativi  e in un ambiente di lavoro che abbiano un impatto positivo sulla mia vita, su quella degli altri e sul nostro pianeta portando sempre entusiasmo ed energia positiva.</p>
