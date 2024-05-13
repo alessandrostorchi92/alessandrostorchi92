@@ -21,8 +21,7 @@ Il mio obiettivo è quello di lavorare su progetti innovativi e in un ambiente d
 
 ###
 
-<p align="left">🎯COSA FACCIO?<br><br>Progetto e sviluppo siti web o web app con accuratezza e dedizione.<br><br>💘PERCHE LO FACCIO?<br><br>Il mio più grande desiderio è quello di lavorare su progetti innovativi e in un ambiente di lavoro che abbiano un impatto positivo sulla mia vita, su quella degli altri e sul nostro pianeta portando sempre entusiasmo ed energia positiva.
-<br><br>QUALI  SONO I MIEI VALORI:<br><br>1️⃣ Resilienza<br><br>Sono alla costante ricerca di apprendimento e acquisizione di competenze trasversali al fine di  sviluppare uno spirito di adattamento alle nuove sfide del mercato che mi si pongono davanti;<br><br>2️⃣ Empatia<br><br>L’intelligenza emotiva che ho sviluppato nella vita di tutti i giorni mi ha permesso di riuscire a tirare fuori il meglio dai miei colleghi di lavoro;<br><br>3️⃣ Umiltà<br><br>Sono fermamente convinto che il saper accettare le critiche costruttive sia un tassello importante per la mia crescita personale e professionale;<br><br>4️⃣ Determinazione<br><br>Non mi fermo davanti agli ostacoli se ho un obiettivo da raggiungere e lo porto a termine seguendo un accurato metodo di organizzazione del lavoro;</p>
+<p align="left">🎯COSA FACCIO?<br><br>Progetto e sviluppo siti web o web app con accuratezza e dedizione.<br><br>💘PERCHE LO FACCIO?<br><br>Il mio più grande desiderio è quello di lavorare su progetti digitali innovativi e in un ambiente di lavoro che abbiano un impatto positivo sulla mia vita, su quella degli altri e sul nostro pianeta portando sempre entusiasmo ed energia positiva. <br><br>QUALI  SONO I MIEI VALORI:<br><br>1️⃣ Resilienza<br><br>Sono alla costante ricerca di apprendimento e acquisizione di competenze trasversali al fine di  sviluppare uno spirito di adattamento alle nuove sfide del mercato che mi si pongono davanti;<br><br>2️⃣ Empatia<br><br>L’intelligenza emotiva che ho sviluppato nella vita di tutti i giorni mi ha permesso di riuscire a tirare fuori il meglio dai miei colleghi di lavoro;<br><br>3️⃣ Umiltà<br><br>Sono fermamente convinto che il saper accettare le critiche costruttive sia un tassello importante per la mia crescita personale e professionale;<br><br>4️⃣ Determinazione<br><br>Non mi fermo davanti agli ostacoli se ho un obiettivo da raggiungere e lo porto a termine seguendo un accurato metodo di organizzazione del lavoro;</p>
 
 ###
 
@@ -36,6 +35,8 @@ Il mio obiettivo è quello di lavorare su progetti innovativi e in un ambiente d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
