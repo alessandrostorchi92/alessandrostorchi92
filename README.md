@@ -6,13 +6,9 @@
 
 Bruciato dalla febbre della curiosità mi ci sono buttato a capofitto. Così ho preso la decisione di frequentare il corso Full Stack Development di Boolean.<br><br>
 
-Per 6 mesi al mattino ho seguito le lezioni tenute da un professionista qualificato, mentre al pomeriggio mi sono messo alla prova svolgendo esercizi relativi agli argomenti affrontati con il supporto di un tutor. Al termine di questo percorso ho sviluppato in 3 settimane, insieme al mio team e con la supervisione di un project manager, una web app, formata da una componente di back-end e da un’interfaccia di front- end responsive, volta a mettere in contatto potenziali clienti con esperti in cybersecurity visto il numero sempre più alto di attacchi informatici ai danni delle persone fisiche e giuridiche.<br><br>
+Grazie al suo approccio job oriented e al suo metodo learning by doing, Boolean mi ha permesso di acquisire il giusto mindset di uno sviluppatore e di apprendere le competenze tecniche basilari per poter realizzare insieme ad un team un prodotto digitale.<br><br>
 
-Questo progetto finale può essere definito come una vera e propria simulazione lavorativa, in quanto mi ha permesso di sviluppare la capacità di collaborare e comunicare efficacemente con il team, seguendo le direttive del project manager. Infine ho presentato insieme al mio team il progetto completato davanti alla classe e al team di Boolean.<br><br>
-
-Grazie al suo approccio job oriented e al suo metodo learning by doing, Boolean mi ha permesso di acquisire il giusto mindset di uno sviluppatore e di apprendere le competenze tecniche basilari per poter realizzare insieme ad un team un sito web o una web application.<br><br>
-
-Il mio obiettivo è quello di lavorare su progetti innovativi e in un ambiente di lavoro che abbiano un impatto positivo sulla mia vita, su quella degli altri e sul nostro pianeta portando sempre entusiasmo ed energia positiva.
+Attualmente sto lavorando come Jr Front-End Developer presso la software company Reindal s.r.l.
 </p>
 
 ###
