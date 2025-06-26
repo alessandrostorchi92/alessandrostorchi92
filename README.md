@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💻CHI SONO:<br><br>Dopo la laurea in giurisprudenza e l’esperienza lavorativa come web designer in Irlanda, folgorato sulla via di Damasco, come nella fiaba “Jack e la pianta di fagioli”, è germogliata in me la voglia irrefrenabile di addentrarmi nel mondo del web development. <br><br>
+<p align="left">🧑🏻‍💻CHI SONO:<br><br>Dopo la laurea in giurisprudenza e l’esperienza lavorativa come web designer in Irlanda, folgorato sulla via di Damasco, come nella fiaba “Jack e la pianta di fagioli”, è germogliata in me la voglia travolgente di addentrarmi nel mondo del web development. <br><br>
 
 Bruciato dalla febbre della curiosità mi ci sono buttato a capofitto, frequentando un corso di formazione professionale, basato su un metodo di apprendimento learning by doing, che mi ha aiutato ad acquisire il giusto mindset di uno sviluppatore web.<br><br>
 
