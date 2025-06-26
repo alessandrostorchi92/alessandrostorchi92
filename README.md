@@ -2,13 +2,14 @@
 
 ###
 
-<p align="left">🧑🏻‍💻CHI SONO:<br><br>Dopo la laurea in giurisprudenza e  l’esperienza lavorativa in Irlanda, folgorato sulla via di Damasco, come nella fiaba “Jack e la pianta di fagioli”, è germogliata in me la voglia irrefrenabile di addentrarmi nel mondo del web development. <br><br>
+<p align="left">🧑🏻‍💻CHI SONO:<br><br>Dopo la laurea in giurisprudenza e l’esperienza lavorativa come web designer in Irlanda, folgorato sulla via di Damasco, come nella fiaba “Jack e la pianta di fagioli”, è germogliata in me la voglia irrefrenabile di addentrarmi nel mondo del web development. <br><br>
 
-Bruciato dalla febbre della curiosità mi ci sono buttato a capofitto. Così ho preso la decisione di frequentare il corso Full Stack Development di Boolean.<br><br>
+Bruciato dalla febbre della curiosità mi ci sono buttato a capofitto, frequentando un corso di formazione professionale, basato su un metodo di apprendimento learning by doing, che mi ha aiutato ad acquisire il giusto mindset di uno sviluppatore web.<br><br>
 
-Grazie al suo approccio job oriented e al suo metodo learning by doing, Boolean mi ha permesso di acquisire il giusto mindset di uno sviluppatore e di apprendere le competenze tecniche basilari per poter realizzare insieme ad un team un prodotto digitale.<br><br>
+Concluso il corso, ho avuto subito l’occasione di mettere in pratica quanto appreso all'interno di una realtà aziendale. Ogni task completato è stato un passo avanti nel mio percorso di crescita, e ogni errore — perché sì, ne ho commessi molti — è stato un prezioso insegnamento per comprendere più a fondo le dinamiche di questo lavoro.<br><br>
 
-Attualmente sto lavorando come Jr Front-End Developer presso la software company Reindal s.r.l.
+Tutto ciò ha avuto su di me lo stesso effetto del sole su un seme: ha fatto sbocciare la consapevolezza del mio potenziale e la determinazione a coltivarlo ogni giorno con dedizione e costanza.<br><br>
+
 </p>
 
 ###
